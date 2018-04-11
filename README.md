@@ -1,20 +1,22 @@
-Home Automation Light Switch (4 Button)
-========================================
-Copyright 2014-2017 SuperHouse Automation Pty Ltd  
-SuperHouse site:  <www.superhouse.tv>  
+Home Automation Smart Switch Breakout (4 Button)
+=================================================
+Copyright 2014-2018 SuperHouse Automation Pty Ltd <www.superhouse.tv>  
 
-Illuminated push button breakout with an RJ45 socket, for mounting
-in a wall panel as part of a home automation system.
+Illuminated push button breakout for mounting in a wall panel as part
+of a home automation system.
+
+This version includes single colour pushbuttons controlled by WS2811
+drivers, so that the illumination level of the buttons can be changed.
 
 Features:
 
- * 4 Illuminated push buttons
- * RJ45 breakout to allow connecting using Cat-5 cable
+ * 4 single colour illuminated push buttons
+ * Mini I/O Breakout header for connection to logic board
 
 
 More information is available at:
 
-  http://www.superhouse.tv/lightswitch
+  http://www.superhouse.tv/smart4
 
 
 INSTALLATION
